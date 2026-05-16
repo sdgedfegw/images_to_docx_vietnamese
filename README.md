@@ -1,4 +1,10 @@
 # images_to_docx_vietnamese
+Preview:
+
+![Input](2aoboqwdpsvquu38znwcyaiwhpdxyis4upki4h9e5.jpg)
+
+![Output](image.png)
+
 Convert images or screenshots to Vietnamese docx document format (Times New Roman 14) using Gemini API + npm docx (need API key and npm docx installed).
 
 Convert images (single file / folder / ZIP) of Word-document content
